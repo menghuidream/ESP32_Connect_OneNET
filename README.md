@@ -1,0 +1,2 @@
+# ESP32_Connect_OneNET
+ESP32连接新版OneNET云平台，包含属性上报和属性设置两部分
